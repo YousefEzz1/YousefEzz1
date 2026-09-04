@@ -1,6 +1,6 @@
-## Hi there Im Yousef EZZ
+# Hi there Im Yousef EZZ
 
-# About Me
+## About Me
 
 I'm a Python developer interested in **Machine Learning, Artificial Intelligence, and building useful software systems**.
 
